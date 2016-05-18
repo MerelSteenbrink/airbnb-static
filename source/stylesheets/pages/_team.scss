@@ -1,0 +1,20 @@
+#gekkeboyz {
+  h1 {
+  color: $orange;
+  }
+
+  h3 {
+    color: $green;
+  }
+
+  a {
+    color: $my_black;
+  }
+
+  img {
+    &:hover {
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  }
+}
+
+}
