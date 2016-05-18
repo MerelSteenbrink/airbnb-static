@@ -1,0 +1,27 @@
+miri:
+  owner_name: Miri Piri
+  picture: https://s-media-cache-ak0.pinimg.com/236x/c9/60/fd/c960fdda12ae9610623b9e192aa59d09.jpg
+  owner_picture: images/miri.jpg
+  name: Miri's Palace
+  summary: The place to be.
+  city: secret
+  rating: WOW
+
+aafke:
+  owner_name: Aafke the Paafke
+  picture: http://static0.hln.be/static/photo/2009/18/6/3/media_xl_969873.jpg
+  owner_picture: images/aafke.jpg
+  name: Aafkes Castle
+  summary: take it with a piece of... sand?
+  city: seaside
+  rating: YEAH
+
+jurjen:
+  owner_name: Jurjen Burjen
+  picture: http://english.cri.cn/mmsource/images/2012/11/26/1126hangout.jpg
+  owner_picture: images/jurjen.jpg
+  name: Jurjens temple
+  summary: Find your inner pies.
+  city: Far Far Away
+  rating: OKI
+

@@ -1,0 +1,29 @@
+.wrapper{
+  background-image: url('http://unsplash.it/2002/604');
+  padding: 30px;
+}
+
+.container{
+  align: center;
+  background-color: white;
+  width: 1000px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 4px;
+  opacity: 0.5;
+}
+
+.cardhome{
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  margin-top: 30px;
+}
+
+.cardhome:hover{
+  transition: transform 2s ease;
+  transform: rotate(180deg);
+
+}

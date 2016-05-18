@@ -1,0 +1,21 @@
+
+<% flat = data.flats[owner] %>
+
+<!-- Inject flat data in template -->
+<div class="wrapper">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-sm-4 col-sm-offset-1">
+        <div class="image">
+          <%= image_tag flat.picture, class: "cardhome" %>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 ">
+        <h2><%= flat.owner_name %></h2>
+        <h3><%= flat.description %></h3>
+        <p><%= flat.city %></p>
+        <p><%= flat.rating %></p>
+      </div>
+    </div>
+  </div>
+</div>
